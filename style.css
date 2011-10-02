@@ -1,0 +1,77 @@
+.easysms_dash
+{
+    width:90%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.easysms_widget {
+    width:90%;
+    padding:10px; 
+    text-align:left;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+p.easysms_text {
+   text-align:left;
+   margin-bottom:10px;
+}
+
+p.easysms_error {
+  color:red;
+  font-weight:bold;
+}
+
+label.easysms {
+   display:block;
+   text-align:left;
+   margin-bottom:5px;
+}
+
+input.easysms {
+   display:block;
+   margin-bottom:5px;
+}
+
+form.easysms_links {
+  text-align:left;
+}
+
+form.easysms {
+  text-align:left;
+}
+
+select.easysms {
+   display:block;
+   text-align:left;
+   margin-bottom:5px;
+}
+
+input.easysms_button {
+  margin-top:5px;
+  margin-bottom:10px;
+  margin-left:0px;
+  text-align:left;
+  border:1px solid #000;
+}
+
+input.easysms_links{
+    padding:0px;
+    border:0px;
+    background-color:transparent;
+    text-align:left;
+    display:block;
+}
+
+li.easysms_dash
+{
+    list-style:square;
+    margin-left:10px;
+}
+
+li.easysms_dash_links
+{
+    list-style:circle;
+    margin-left:14px;
+}
